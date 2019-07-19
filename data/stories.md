@@ -25,3 +25,12 @@
 * goodbye
     - utter_goodbye
 * stop
+
+## Generated Story 1989978856973342001
+* greet
+    - utter_greet
+* inform{"location": "london"}
+    - slot{"location": "london"}
+    - action_weather
+* goodbye
+    - utter_goodbye
